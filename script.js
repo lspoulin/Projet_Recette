@@ -1,0 +1,5 @@
+class Recette{
+    id;
+    constructor(){}
+
+}
